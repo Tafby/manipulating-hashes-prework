@@ -17,9 +17,11 @@ def first_challenge
 contacts.each do |icecream, flavor|
   if flavor.delete_if == "Strawberry"
 end
+end
     
 
   #remember to return your newly altered contacts hash!
+  contacts
   contacts
 end
 
