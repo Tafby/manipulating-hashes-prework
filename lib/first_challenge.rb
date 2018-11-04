@@ -15,7 +15,7 @@ def first_challenge
 
   #your code here
 contacts.each do |icecream, flavor|
-  if flavor.delete_if == "Strawberry"
+  if contact.value == "Strawberry"
 end
 end
     
